@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/Bhaskarreddybasireddy/Love-Letter.git",
+            "request": "launch",
+            "url": "https://github.com/Bhaskarreddybasireddy/Love-Letter.git"
+        }
+    ]
+}
